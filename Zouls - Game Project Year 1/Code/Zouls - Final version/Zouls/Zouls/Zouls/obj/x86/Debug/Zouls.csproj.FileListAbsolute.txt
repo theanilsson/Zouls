@@ -1,0 +1,197 @@
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+c:\users\sub13lucasn\documents\visual studio 2010\Projects\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spöke.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spöke.xnb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spöke.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13daniel\Documents\Visual Studio 2010\Projects\actually_finished_zouls\Kod\zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Menutemp.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\spöke.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Content\Sprites\Menutemp.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\prototypen med main menu\actually_finished_zouls\Kod\zouls\zouls\zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Menutemp.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Front_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\blankPlayerBackground.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\galler.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spak.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\sten.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bakgrund temp.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\dörr.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\nyckel2.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\spöke.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Menutemp.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Front_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\blankPlayerBackground.xnb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Zouls Versions\Zouls med animerad karaktär utan tiles\Zouls by TeamZ\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Back_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Right_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Left_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bars.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\lever.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\rock.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\door.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls by TeamZ\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\key.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\coin.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\bars.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\lever.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\rock.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\door.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Temp_char_static.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\key.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Menutemp.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Front_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\blankPlayerBackground.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Back_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Right_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Left_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundOne.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundTwo.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med förvirrad animerad karaktär\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundThree.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\rock.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\blankPlayerBackground.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundTwo.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundThree.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundOne.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Front_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Back_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Right_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Left_Animation_Strip.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Door_animation_front.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Door_animation_side.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Key_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Lever_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Gate_Front_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Coin_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Fog_Animation.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Starting_menu.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button2.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\winscreen.xnb
+C:\Users\sub13lucasn\Documents\Visual Studio 2010\Projects\Zouls med skapade objekt och förkortad update\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\torch_animation.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\rock.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Front_Animation_Strip.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\blankPlayerBackground.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Back_Animation_Strip.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Right_Animation_Strip.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Ghost_Left_Animation_Strip.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundOne.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundTwo.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\backgroundThree.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Door_animation_front.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Door_animation_side.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Gate_Front_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Key_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Lever_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Coin_Animation_Spritesheet.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\Fog_Animation.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Starting_menu.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\button2.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\winscreen.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Content\Sprites\Animationstrips\torch_animation.xnb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\bin\x86\Debug\Zouls.pdb
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.csprojResolveAssemblyReference.cache
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.exe
+C:\Users\sub13lucasn\Dropbox\Spelprojekt 1\Kod\Zouls som behöver bugfix\Zouls\Zouls\Zouls\obj\x86\Debug\Zouls.pdb
