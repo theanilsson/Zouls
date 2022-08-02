@@ -1,5 +1,5 @@
 ﻿/* AnimatedObject
- * Author: Lucas Nilsson
+ * Author: Thea Nilsson
  * v 0.1
  * Known bugs:
  * to-do:
